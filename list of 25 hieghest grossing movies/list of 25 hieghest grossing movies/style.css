@@ -1,0 +1,26 @@
+
+table{
+  font-family:unset ;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-style: solid;
+  border-color:rgb(201, 12, 12) ;
+}
+
+th{
+    font-weight: 800;
+    background-color: rgb(201, 12, 12);
+    color: gainsboro ;
+}
+h1{
+
+    font-family:fantasy ;
+    background-color:rgb(201, 12, 12);
+    color:white ;
+    
+}
+
+
+
+
+
